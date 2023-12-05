@@ -5,4 +5,6 @@ All the questions from Problem of the day of December Month
 2. Inorder Traversal and BST
 3. Brothers From Different Roots
 4. Sum-string
+5. Minimize the Heights II
+
 
