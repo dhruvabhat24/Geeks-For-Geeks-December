@@ -8,3 +8,5 @@ All the questions from Problem of the day of December Month
 5. Minimize the Heights II
 6. How Many X's?
 7. Number of subarrays with maximum values in given range
+8. Transform to prime
+
