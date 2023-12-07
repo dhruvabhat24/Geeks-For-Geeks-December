@@ -7,6 +7,4 @@ All the questions from Problem of the day of December Month
 4. Sum-string
 5. Minimize the Heights II
 6. How Many X's?
-
-
-
+7. Number of subarrays with maximum values in given range
