@@ -10,4 +10,5 @@ All the questions from Problem of the day of December Month
 7. Number of subarrays with maximum values in given range
 8. Transform to prime
 9. Smith Number
+10. Subarray with 0 sum
 
