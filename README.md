@@ -14,5 +14,6 @@ All the questions from Problem of the day of December Month
 11. Max Sum Subarray of size K
 12. Gold Mine Problem
 13. Consecutive 1's not allowed
+14. Painting the Fence
 
 
