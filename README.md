@@ -15,5 +15,7 @@ All the questions from Problem of the day of December Month
 12. Gold Mine Problem
 13. Consecutive 1's not allowed
 14. Painting the Fence
+15. Reach the Nth point
+
 
 
