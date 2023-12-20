@@ -20,3 +20,5 @@ All the questions from Problem of the day of December Month
 17. Max Sum without Adjacents
 18. Game of XOR
 19. Rightmost different bit
+20. Modified Game of Nim
+
