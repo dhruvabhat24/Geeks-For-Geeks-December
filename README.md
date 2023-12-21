@@ -21,4 +21,4 @@ All the questions from Problem of the day of December Month
 18. Game of XOR
 19. Rightmost different bit
 20. Modified Game of Nim
-
+21. Candy
