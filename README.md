@@ -22,3 +22,5 @@ All the questions from Problem of the day of December Month
 19. Rightmost different bit
 20. Modified Game of Nim
 21. Candy
+22. Maximum Meetings in One Room
+
