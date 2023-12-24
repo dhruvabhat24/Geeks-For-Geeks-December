@@ -24,3 +24,5 @@ All the questions from Problem of the day of December Month
 21. Candy
 22. Maximum Meetings in One Room
 23. Count More than n/k Occurences
+24. Buy Maximum Stocks if i stocks can be bought on i-th day
+
