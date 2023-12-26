@@ -26,5 +26,7 @@ All the questions from Problem of the day of December Month
 23. Count More than n/k Occurences
 24. Buy Maximum Stocks if i stocks can be bought on i-th day
 25. Determinant of a Matrix
+26. Largest rectangular sub-matrix whose sum is 0
+
 
 
