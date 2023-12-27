@@ -28,6 +28,7 @@ All the questions from Problem of the day of December Month
 25. Determinant of a Matrix
 26. Largest rectangular sub-matrix whose sum is 0
 27. Anti Diagonal Traversal of Matrix
+28. Misère Nim
 
 
 
