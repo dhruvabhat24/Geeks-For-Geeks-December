@@ -30,3 +30,5 @@ All the questions from Problem of the day of December Month
 27. Anti Diagonal Traversal of Matrix
 28. Wildcard string matching
 29. Check if a string is repetition of its substring of k-length
+30. Winner of an election
+
