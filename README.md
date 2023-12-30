@@ -31,4 +31,5 @@ All the questions from Problem of the day of December Month
 28. Wildcard string matching
 29. Check if a string is repetition of its substring of k-length
 30. Winner of an election
+31. New Year Resolution
 
